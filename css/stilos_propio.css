@@ -7,13 +7,17 @@ h1{
     color: #CCC788;
 }
 #pokeimg{
-    /* width: 50px;
-    height: 50px; */
     padding: 20px;
 
     background-color: #472A28;
     
 }
+.tex_poke{
+    color: white;
+}
 img{
     border-radius: 5px;
+
+    width: 400px;
+    height: 500px;
 }
